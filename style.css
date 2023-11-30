@@ -1,0 +1,77 @@
+.converter{
+    display: block;
+    margin: 200px auto;
+    width: fit-content;
+    width: 90vh;
+    text-align: center;
+    background-color: #edeaea;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    
+}
+
+#titleConverter{
+    font-weight: bold;
+    color: white;
+}
+
+.header {
+    background-color: #6943FF;
+    margin-bottom: 20px;
+    width: 95%;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.inputField{
+    width: 60px;
+    height: 40px;
+    text-align: center;
+    font-size: 200%;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: transparent;
+}
+
+#convertBtn{
+    width: 90px;
+    height: 35px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+
+.body {
+    background-color: #edeaea;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
+
+.length{
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 80%;
+}
+
+.volume{
+    margin:auto;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 80%;
+}
+
+.mass{
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 80%;
+}
